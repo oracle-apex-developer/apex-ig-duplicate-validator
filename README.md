@@ -7,10 +7,10 @@ This plugin provides real-time, client-side validation for Interactive Grids (IG
 
 [Demo](https://oracleapex.com/ords/r/sheharyar/learning/interactive-grid-plugin)
 
-Single Column Validation
+## Single Column Validation
 ![alt text](<https://github.com/oracle-apex-developer/apex-ig-duplicate-validator/blob/main/Single%20Column%20Validation.png>)
 
-Composite Column Validation
+## Composite Column Validation
 ![alt text](<https://github.com/oracle-apex-developer/apex-ig-duplicate-validator/blob/main/Composite%20Column%20Validation.png>)
 
 
