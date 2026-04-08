@@ -27,7 +27,7 @@
         "internalName" : "COM.SHERY.IG_DUPLICATE_VALIDATOR",
         "type" : "dynamic action",
         "demo" : "https://oracleapex.com/ords/r/sheharyar/learning/interactive-grid-plugin",
-        "previewImage" : "https://github.com/sheharyarshakeel/apex-ig-duplicate-validator/blob/main/Composite%20Column%20Validation.png"
+        "previewImage" : "https://raw.githubusercontent.com/sheharyarshakeel/apex-ig-duplicate-validator/main/Composite%20Column%20Validation.png"
       }
     }
   }
