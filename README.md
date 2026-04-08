@@ -6,8 +6,9 @@ This plugin provides real-time, client-side validation for Interactive Grids (IG
 
 
 [Demo](https://oracleapex.com/ords/r/sheharyar/learning/interactive-grid-plugin)
+
 Example
-![alt text](<Inserted Rows by JavaScript-1.png>)
+![alt text](<https://github.com/oracle-apex-developer/apex-ig-duplicate-validator/blob/main/Inserted%20Rows%20by%20JavaScript.png>)
 
 
 ---
