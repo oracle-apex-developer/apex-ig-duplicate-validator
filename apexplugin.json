@@ -3,9 +3,9 @@
   "version" : "1.0.0",
   "description" : "An Oracle APEX Dynamic Action Plugin that validates duplicate rows in Interactive Grids based on 1-5 configurable columns. Provides real-time client-side validation on cell change, IG save, and page submit with row highlighting and error messaging.",
   "keywords" : ["Interactive Grid", "Duplicate Validation", "IG Plugin", "Dynamic Action", "Oracle APEX", "Row Validation", "Duplicate Detection"],
-  "homepage" : "https://github.com/oracle-apex-developer/apex-ig-duplicate-validator",
+  "homepage" : "https://github.com/sheharyarshakeel/apex-ig-duplicate-validator",
   "bugs" : {
-    "url" : "https://github.com/oracle-apex-developer/apex-ig-duplicate-validator/issues",
+    "url" : "https://github.com/sheharyarshakeel/apex-ig-duplicate-validator/issues",
     "email" : "shakeelsheharyar@gmail.com"
   },
   "license" : "MIT",
@@ -17,7 +17,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/oracle-apex-developer/apex-ig-duplicate-validator.git"
+    "url" : "https://github.com/sheharyarshakeel/apex-ig-duplicate-validator.git"
   },
  "oracle" : {
     "versions" : ["19.0.0.0", "21.0.0.0", "23.0.0.0"],
@@ -27,8 +27,10 @@
         "internalName" : "COM.SHERY.IG_DUPLICATE_VALIDATOR",
         "type" : "dynamic action",
         "demo" : "https://oracleapex.com/ords/r/sheharyar/learning/interactive-grid-plugin",
-        "previewImage" : "https://raw.githubusercontent.com/oracle-apex-developer/apex-ig-duplicate-validator/main/Inserted%20Rows%20by%20JavaScript.png"
+        "previewImage" : "https://github.com/sheharyarshakeel/apex-ig-duplicate-validator/blob/main/Composite%20Column%20Validation.png"
       }
     }
   }
 }
+
+https://github.com/your_account/your_plug-in_project
